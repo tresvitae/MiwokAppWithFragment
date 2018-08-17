@@ -4,7 +4,7 @@ This is a training procject in Android Basics Nanodegree Course organised by Goo
 
 The purpose of this Android applications is to display a list of words in Miwok(Indian) and English seperated to four groups (display as Fragments): family, colors, numbers and phrases. Aslo, each word contains audio voice of miwok language.
 
-The application implements ListView + ArrayAdapter, MV Builder with getters and AudioFocus.
+The application implements ListView + ArrayAdapter and AudioFocus. Also contains MV Builder with getters.
 
 
 # License
